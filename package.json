@@ -1,0 +1,15 @@
+{
+  "name": "@freedomsex/styles",
+  "version": "0.0.1",
+  "description": "Переменные и миксины стилей часто используемые в проекте.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedomsex/styles.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedomsex/styles/issues"
+  },
+  "homepage": "https://github.com/freedomsex/styles#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}

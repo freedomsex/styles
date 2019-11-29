@@ -1,0 +1,34 @@
+.link {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.link_simple {
+    .link;
+    color: @link-color;
+}
+.link_dashed {
+    .link_simple;
+    border-bottom: 1px dashed @link-color;
+}
+.link_underline {
+    .link_simple;
+    text-decoration: underline;
+}
+.link_strike {
+    .link;
+    color: @gray;
+    text-decoration: line-through;
+}
+
+// Colors 
+
+.gray_link {
+    color: @gray-dark;
+    .link;
+}
+
+.red_link {
+    color: red;
+    .link;
+}
