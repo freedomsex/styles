@@ -1,6 +1,6 @@
 {
   "name": "@freedomsex/styles",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Переменные и миксины стилей часто используемые в проекте.",
   "repository": {
     "type": "git",
